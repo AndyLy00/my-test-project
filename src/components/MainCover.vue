@@ -46,6 +46,7 @@ import {Button} from "ant-design-vue";
   height: 50rem;
   width: 100%;
   position: relative;
+  margin: 0 auto;
 
   .home__text {
     margin-top: 6rem;

@@ -74,7 +74,7 @@ import {Button} from "ant-design-vue";
 .main-carousel {
   padding: 140px 20px;
   max-width: 1570px;
-  margin-top: 4.75rem;
+  margin: 4.75rem auto 0;
   .main-carousel__text {
     margin: 0 auto;
     max-width: 40rem;

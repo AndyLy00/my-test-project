@@ -164,6 +164,7 @@ import {Button} from "ant-design-vue";
 
 <style lang="scss" scoped>
 .shop {
+  margin: 0 auto;
   padding: 140px 20px;
   max-width: 1570px;
 }
